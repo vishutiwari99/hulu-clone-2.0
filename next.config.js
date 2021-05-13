@@ -1,5 +1,6 @@
 module.exports = {
     images: {
-        domain: ["links.papareact.com", "images.tmdb.org",],
+        // loader: 'imgix',
+        domains: ["image.tmdb.org"],
     },
 }
